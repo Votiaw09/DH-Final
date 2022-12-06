@@ -40,6 +40,11 @@ Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly
        description="A group of people standing outside the Rascals Bar sign" 
        license="public domain" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Rascals%201990-1995001.jpg?raw=true">
+<param ve-image 
+       label="Rascals Business Card" 
+       description="A color-printed business card for Rascals Bar & Grill featuring rainbow coloration." 
+       license="public domain" 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Votis,%20Austin009.jpg?raw=true">
 
 # References
 
