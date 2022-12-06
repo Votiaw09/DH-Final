@@ -11,7 +11,7 @@ An analysis of iconography of LGBT bars in Northeast Wisconsin.
 
 ## The Pink Triangle
 
-Bright and whimsical imagery with exceedingly grim origins. The pink triangle originated in Nazi Germany as a way to identify gay men in concentration camps. Americans in the 80's, 
+Bright and whimsical imagery with exceedingly grim origins. The pink triangle originated in Nazi Germany as a way to identify gay men in concentration camps. "Four decades later, in 1986, an American art collective known as the Silence=Death Project repurposed this Holocaust symbol to create its ties around the country"[^1] (Vials, 194-95). 
 <param ve-image 
        label="Napalese Lounge Logo" 
        description="Logo of the Napalese Lounge in Green Bay" 
