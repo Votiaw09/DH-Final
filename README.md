@@ -34,4 +34,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: VIALS, CHRISTOPHER. “Queer Antifascism: Pink Triangle Politics and the Christian Right.” Haunted by Hitler: Liberals, the Left, and the Fight against Fascism in the United States, University of Massachusetts Press, 2014, pp. 194–232. JSTOR, http://www.jstor.org/stable/j.ctt1cx3tgs.12. Accessed 6 Dec. 2022.
+[^1]: [VIALS, CHRISTOPHER. “Queer Antifascism: Pink Triangle Politics and the Christian Right.” Haunted by Hitler: Liberals, the Left, and the Fight against Fascism in the United States, University of Massachusetts Press, 2014, pp. 194–232. JSTOR, http://www.jstor.org/stable/j.ctt1cx3tgs.12. Accessed 6 Dec. 2022.]
