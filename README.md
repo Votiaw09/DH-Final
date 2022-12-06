@@ -36,8 +36,10 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
 
 Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly LGBT bar, and interestingly, it chooses to mix blocky pub-style design with rainbow and 
 <param ve-image 
-       manifest="[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c](https://github.com/Votiaw09/Imagas/blob/main/Rascals%201990-1995001.jpg?raw=true)">
-<param ve-map center="Q36600" zoom="11">
+       label="Rascals 1990" 
+       description="A group of people standing outside the Rascals Bar sign" 
+       license="public domain" 
+       url="[https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
 
 # References
 
