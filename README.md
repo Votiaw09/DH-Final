@@ -24,6 +24,20 @@ Bright and whimsical imagery with exceedingly grim origins. The pink triangle or
        label="Napalese Lounge Bowling Team Shirts" 
        description="Logo of the Napalese Lounge on Bowling Shirts" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Eiler%20-%20Naps%20Bowling%20League%201.jpg?raw=true">
+       
+<param ve-map title="Napalese Lounge, Initial Location 1983-2000" center="44.51130367738143, -88.0240842739042" zoom="16" 
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
+       coords="44.51130367738143, -88.0240842739042"
+       size="47,64"
+       iconAnchor="22, 94">
+       
+<param ve-map title="Napalese Lounge, Relocated 2000-Present" center="44.51131825254179, -87.99322045325613" zoom="16" 
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
+       coords="44.51131825254179, -87.99322045325613"
+       size="47,64"
+       iconAnchor="22, 94">
 
 ## Pink Triangle, Cont.
 
