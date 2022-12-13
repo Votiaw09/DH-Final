@@ -41,6 +41,12 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
 
 Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 until its closure in 2000. Za's took over the space previously occupied by Who's, another short-lasting LGBT bar with a five-year tenure, and both owners of the respective bars lamented the transient and taxing nature of owning an LGBT bar. Both bars reported harrassment and violence as ongoing struggles throughout their short lifespans. Ironically, it was an increasingly diverse and tentatively accepting societal shift that lead to these early LGBT bars to struggle; as 'straight' bar crowds diversified, LGBT bars like Who's and Za's found their crowds shrinking. That unfortunate news aside, Za's logo is one of the most striking in UW Green Bay's collection; the angular design is striking, and in addition, Mariucci (or his graphic designer!) clevely interpreted the pink triangle imagery into the logo in the form of the A in "ZA'S." It's a design I wish would have stuck around! 
 
+<param ve-image 
+       label="Za's t-shirt logo" 
+       description="A t-shirt design for Za's Bar, est. 1989-2000" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Za_s%20t-shirt.jpg">
+
 ## Rascals Bar & Grill
 
 Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly LGBT bar, and interestingly, it chooses to mix blocky pub-style design with rainbow and 
