@@ -20,6 +20,11 @@ Bright and whimsical imagery with exceedingly grim origins. The pink triangle or
        label="Napalese Lounge Logo" 
        description="Logo of the Napalese Lounge in Green Bay" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Eiler%20-%20Napalese%20Lounge%20Logo%20(1).jpg?raw=true">
+       
+<param ve-image 
+       label="Napalese Lounge Bowling Team Shirts" 
+       description="Logo of the Napalese Lounge on Bowling Shirts" 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Eiler%20-%20Naps%20Bowling%20League%201.jpg?raw=true">
 
 ## Pink Triangle, Cont.
 
