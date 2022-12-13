@@ -12,7 +12,7 @@ An analysis of iconography of LGBT bars in Northeast Wisconsin.[^2]
        banner="https://github.com/Votiaw09/Imagas/blob/main/dh%20final%20banner.jpg?raw=true" 
        layout="vertical">
 
-## The Pink Triangle
+## The Pink Triangle, and the Napalese Lounge
 
 Bright and whimsical imagery with exceedingly grim origins. The pink triangle originated in Nazi Germany as a way to identify gay men in concentration camps. "Four decades later, in 1986, an American art collective known as the Silence=Death Project repurposed this Holocaust symbol to create its ties around the country"[^1] (Vials, 194-95). The AIDS crisis, joyfully referred to by Reagan's administration as the "gay plague," was seen as "god's solution" to the Republicans' "gay crisis," and had killed up to one in every fifteen LGBT Americans by 1995. In the face of this continued persecution, Avram Finkelstein, Brian Howard, Oliver Johnston, Charles Kreloff, Chris Lione, and Jorge Socarrás, the founders of the Silence=Death Project, repropriated this iconography as an identifier of another kind.
 <param ve-image 
