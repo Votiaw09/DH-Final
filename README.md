@@ -49,7 +49,8 @@ Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 unti
 
 ## Rascals Bar & Grill
 
-Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly LGBT bar, and interestingly, it chooses to mix blocky pub-style design with rainbow and 
+Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly LGBT bar. It, along with Napalese Lounge, is a rare breed of long-running and ongoing LGBT bars in the Northeast Wisconsin area. Rascals, established in 1992, is well-known for its friendly environment as well as its reputation to local LGBT people as a refuge during tough times. It chooses to mix traditional, blocky, pub-style design with identifiable rainbow highlights, signaling its dual identity as a LGBT space and also as a spot for families to go for a Friday Night Fish Fry. This is simply postulation, but this form of presentation may have contributed to its ability to stay intact throughout a genre that was otherwise tough for other LGBT bars.
+
 <param ve-image 
        label="Rascals 1990" 
        description="A group of people standing outside the Rascals Bar sign" 
