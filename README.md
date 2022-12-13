@@ -32,7 +32,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
-<param ve-map-layer geojson title="Club Cheeks" url="https://geojson.io/#map=6/44.514/-88.024">
+<param ve-map title="Club Cheeks" url="https://geojson.io/#map=6/44.514/-88.024">
        
 ## Pink Triangle, The Third
 
