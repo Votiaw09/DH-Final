@@ -1,4 +1,3 @@
-# DH-Final
 An analysis of iconography of LGBT bars in Northeast Wisconsin.[^2]
 <param ve-image 
        label="My World Hand-Drawn Flier" 
