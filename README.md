@@ -31,6 +31,11 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        description="T-shirt logo of Club Cheeks in Green Bay" 
        license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
+<param ve-image 
+       label="Buddies Bar Logo" 
+       description="Logo of Buddies Bar" 
+       license="public domain" 
+       url="https://github.com/Votiaw09/Imagas/blob/main/buddies%20bar%20logo.png?raw=true">
 
 ## Rascals Bar & Grill
 
