@@ -32,8 +32,14 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
-<param ve-map center="44.51446973045305, -88.02393517390406" zoom="15" 
-       <param ve-map-marker center="44.51446973045305, -88.02393517390406">
+<param ve-map center="44.51446973045305, -88.02393517390406" zoom="16" 
+       <param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="44.51446973045305, -88.02393517390406"
+       size="38, 95"
+       iconAnchor="22, 94"
+       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
+       shadowSize="50, 64">
        
 ## Pink Triangle, The Third
 
