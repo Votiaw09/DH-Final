@@ -1,8 +1,8 @@
+# DH-Final
 An analysis of iconography of LGBT bars in Northeast Wisconsin.[^2]
 <param ve-image 
        label="My World Hand-Drawn Flier" 
        description="Framed poster for My World, drawn by then-owner, Bob Hackl." 
-       license="public domain" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Rainbow%20Over%20Wisconsin,%20My%20World%20flier.jpg?raw=true">
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
@@ -19,7 +19,6 @@ Bright and whimsical imagery with exceedingly grim origins. The pink triangle or
 <param ve-image 
        label="Napalese Lounge Logo" 
        description="Logo of the Napalese Lounge in Green Bay" 
-       license="public domain" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Eiler%20-%20Napalese%20Lounge%20Logo%20(1).jpg?raw=true">
 
 ## Pink Triangle, Cont.
@@ -28,7 +27,6 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
 <param ve-image 
        label="Club Cheeks Logo" 
        description="T-shirt logo of Club Cheeks in Green Bay" 
-       license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
 <param ve-map center="44.51446973045305, -88.02393517390406" zoom="16" 
@@ -45,7 +43,6 @@ Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 unti
 <param ve-image 
        label="Za's t-shirt logo" 
        description="A t-shirt design for Za's Bar, est. 1989-2000" 
-       license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Za_s%20t-shirt.jpg">
 
 ## Rascals Bar & Grill
