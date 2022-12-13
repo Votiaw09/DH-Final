@@ -38,7 +38,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        stroke-width="0"
        fill="blue" 
        fill-opacity="1">
-<param ve-map-layer geojson title="Club Cheeks" url="[cities.json](https://geojson.io/#map=16/44.514385/-88.02382)">
+<param ve-map-layer geojson title="Club Cheeks" url="https://geojson.io/#map=16/44.514385/-88.02382">
        
 ## Pink Triangle, The Third
 
