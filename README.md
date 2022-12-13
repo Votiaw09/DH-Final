@@ -36,7 +36,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
        coords="44.51446973045305, -88.02393517390406"
-       size="94,128"
+       size="47,64"
        iconAnchor="22, 94">
        
 ## Pink Triangle, The Third
