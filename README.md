@@ -31,14 +31,22 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        description="T-shirt logo of Club Cheeks in Green Bay" 
        license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
-<param ve-map
-       zoom="2"
-       marker-type="circle"
-       radius="4" 
-       stroke-width="0"
-       fill="blue" 
-       fill-opacity="1">
-<param ve-map-layer geojson title="Club Cheeks" url="https://geojson.io/#map=16/44.514385/-88.02382">
+<param ve-map {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -88.0238199999993,
+          44.514390100461554
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}>
        
 ## Pink Triangle, The Third
 
