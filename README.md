@@ -36,6 +36,10 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        description="Logo of Buddies Bar" 
        license="public domain" 
        url="https://github.com/Votiaw09/Imagas/blob/main/buddies%20bar%20logo.png?raw=true">
+       
+## Pink Triangle, The Third
+
+Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 until its closure in 2000. Za's took over the space previously occupied by Who's, another short-lasting LGBT bar with a five-year tenure, and both owners of the respective bars lamented the transient and taxing nature of owning an LGBT bar. Both bars reported harrassment and violence as ongoing struggles throughout their short lifespans. Ironically, it was an increasingly diverse and tentatively accepting societal shift that lead to these early LGBT bars to struggle; as 'straight' bar crowds diversified, LGBT bars like Who's and Za's found their crowds shrinking. That unfortunate news aside, Za's logo is one of the most striking in UW Green Bay's collection; the angular design is striking, and in addition, Mariucci (or his graphic designer!) clevely interpreted the pink triangle imagery into the logo in the form of the A in "ZA'S." It's a design I wish would have stuck around! 
 
 ## Rascals Bar & Grill
 
