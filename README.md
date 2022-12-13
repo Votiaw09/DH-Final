@@ -32,7 +32,8 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        license="public domain" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
-<param ve-map center="44.51446973045305, -88.02393517390406">
+<param ve-map center="44.51446973045305, -88.02393517390406" zoom="10" 
+       <param ve-map-marker url="https://geojson.io/#map=17.45/44.51439/-88.02382">
        
 ## Pink Triangle, The Third
 
