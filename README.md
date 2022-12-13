@@ -33,7 +33,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
 <param ve-map>
-<param ve-map-layer "type":"FeatureCollection","features":{"type":"Feature","properties":{},"geometry":{"coordinates":[-88.0238199999993,44.514390100461554],"type":"Point"}}>
+<param ve-map-layer "coordinates":[-88.0238199999993,44.514390100461554],"type":"Point">
        
 ## Pink Triangle, The Third
 
