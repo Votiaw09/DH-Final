@@ -49,7 +49,7 @@ The Napalese Lounge, established in 1983 and still running almost fourty years l
        size="47,64"
        iconAnchor="22, 94">
 
-## Pink Triangle, Cont.
+## Pink Triangle Cont., Club Cheeks
 
 A handful of bar iconography and logos collected by the UW Green Bay Archive & Area Research Center utilize this pink triangle, with or without accompanying rainbow coloration (comparing this logo to the previous one for "Naps"). The presence of the pink triangle can be considered a kind of code, a signifier to people in the LGBT community that this is a bar 'for them.' LGBT Bars, for a wide variety of reasons that could include their era of operation, location (both city and neighborhood), and intended clientelle, are more or less subtle with this iconography. The Napalese Lounge, for example, is very public with its image, with both the rainbow-adorned logo and the pink triangle displayed in their front windows. Club Cheeks, shown here, was only open for a short time in 1996[^2] and was intended to be a locals-only nightclub whose signage include an ad for their 'first show,' featuring "Miss Gay Great Lakes U.S. of A. At-Large, Celeste Olds." Club Cheeks openly advertised itself as an LGBT space, and unfortunately, it is unknown whether its too-brief tenure was in part due to that openness. As far as the non-triangle imagery goes, the two C's are nestled in a position similar to a big- and small-spoon cuddle, and the coloration derives itself from the bottom three colors of the lesbian flag.
 <param ve-image 
