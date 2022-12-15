@@ -14,9 +14,13 @@ An analysis of iconography of LGBT bars in Northeast Wisconsin.[^2]
 
 ## The Pink Triangle, and the Napalese Lounge
 
-Bright and whimsical imagery with exceedingly grim origins. The pink triangle originated in Nazi Germany as a way to identify gay men in concentration camps. "Four decades later, in 1986, an American art collective known as the Silence=Death Project repurposed this Holocaust symbol to create its ties around the country"[^1] (Vials, 194-95). The AIDS crisis, joyfully referred to by Reagan's administration as the "gay plague," was seen as "god's solution" to the Republicans' "gay crisis," and had killed up to one in every fifteen LGBT Americans by 1995. In the face of this continued persecution, Avram Finkelstein, Brian Howard, Oliver Johnston, Charles Kreloff, Chris Lione, and Jorge Socarrás, the founders of the Silence=Death Project, repropriated this iconography as an identifier of another kind.
+Bright and whimsical imagery with exceedingly grim origins, the pink triangle originated in Nazi Germany as a way to identify gay men in concentration camps. "Four decades later, in 1986, an American art collective known as the Silence=Death Project repurposed this Holocaust symbol to create its ties around the country"[^1] (Vials, 194-95). The AIDS crisis, joyfully referred to by Reagan's administration as the "gay plague," was seen as "god's solution" to the Republicans' "gay crisis," and had killed up to one in every fifteen LGBT Americans by 1995. In the face of this continued persecution, Avram Finkelstein, Brian Howard, Oliver Johnston, Charles Kreloff, Chris Lione, and Jorge Socarrás, the founders of the Silence=Death Project, repropriated this iconography as an identifier of another kind.
 
-The Napalese Lounge, established in 1983 and still running almost fourty years later, 
+<param ve-image 
+       label="Silence=Death" 
+       description="Slogan of the Silence=Death Project."  url="https://upload.wikimedia.org/wikipedia/commons/6/61/A_pink_triangle_against_a_black_backdrop_with_the_words_%27Silence%3DDeath%27_representing_an_advertisement_for_The_Silence_%3D_Death_Project_used_by_permission_by_ACT-UP%2C_The_AIDS_Coalition_To_Unleash_Power._Wellcome_L0052822.jpg">
+
+The Napalese Lounge, established in 1983 and still running almost fourty years later, has carried on this tradition with its iconic logo, prominently featuring both a rainbow-colored crescent moon and pink triangle.
 
 <param ve-image 
        label="Napalese Lounge Logo" 
