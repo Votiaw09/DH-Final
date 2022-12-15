@@ -35,7 +35,7 @@ The Napalese Lounge, established in 1983 and still running almost fourty years l
        description="Logo of the Napalese Lounge on Bowling Shirts" 
        url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Eiler%20-%20Naps%20Bowling%20League%201.jpg?raw=true">
        
-<param ve-map title="Napalese Lounge, Initial Location 1983-2000" center="44.51130367738143, -88.0240842739042" zoom="16" 
+<param ve-map title="Napalese Lounge, Initial Location 1983-2000" center="44.51130367738143, -88.0240842739042" zoom="12" 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
        coords="44.51130367738143, -88.0240842739042"
@@ -57,10 +57,10 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        description="T-shirt logo of Club Cheeks in Green Bay" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
-<param ve-map center="44.51446973045305, -88.02393517390406" zoom="16" 
+<param ve-map center="44.51445250891673, -88.02394858567011" zoom="16" 
        <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
-       coords="44.51446973045305, -88.02393517390406"
+       coords="44.51445250891673, -88.02394858567011"
        size="47,64"
        iconAnchor="22, 94">
        
