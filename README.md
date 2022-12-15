@@ -144,6 +144,15 @@ Operating from 1977 to 1982, Manhole's bar logo is the most impressive and braze
        coords="44.51271080772991, -88.01721476233423"
        size="47,64"
        iconAnchor="22, 94">       
+       
+## Coming to a Conclusion
+
+The LGBT bar scene in Northeast Wisconsin is a fascinating case study. It is, at different times, ephemeral, varied, short-lived, and surprisingly interconnected. Before Mark Mariucci opened Za's, for example, he DJed at Manhole. It's no wonder that UW Green Bay has found such success in their Our Voices project, with so many memories contained throughout these flash-in-the-pan LGBT pop-ups throughout the 80's and 90's, and continuing into the 2000's. Of the 185 listed bars/taverns on the Wisconsin LGBT History website[^2], 20 of them are listed as presently open. While the businesses may have closed, there's no short supply of people, both former owners and former regulars, willing to contribute their time to keeping their memory alive. 
+
+<param ve-image 
+       label="The Shelter Farewell Show Flier" 
+       description="A poster for a going-away show for Shelter Club, which announced its closure to much surprise in 2017." 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Farewell%20Show%20April%202017.PNG?raw=true"> 
 
 # References
 
