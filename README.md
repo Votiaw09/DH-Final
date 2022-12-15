@@ -20,7 +20,7 @@ Bright and whimsical imagery with exceedingly grim origins, the pink triangle or
        label="Silence=Death" 
        description="Slogan of the Silence=Death Project."  url="https://upload.wikimedia.org/wikipedia/commons/6/61/A_pink_triangle_against_a_black_backdrop_with_the_words_%27Silence%3DDeath%27_representing_an_advertisement_for_The_Silence_%3D_Death_Project_used_by_permission_by_ACT-UP%2C_The_AIDS_Coalition_To_Unleash_Power._Wellcome_L0052822.jpg">
 
-The Napalese Lounge, established in 1983 and still running almost fourty years later, has carried on this tradition with its iconic logo, prominently featuring both a rainbow-colored crescent moon and pink triangle.
+The Napalese Lounge, established in 1983 and still running almost fourty years later, has carried on this tradition with its iconic logo, prominently featuring both a rainbow-colored crescent moon and pink triangle. The bar is not only operational, but a pillar of the local LGBT community, organizing monthly drag shows and organizing events. Of the bar logos found throughout the course of this project, it is the only one still operational that displays the pink triangle in its iconography.
 
 <param ve-image 
        label="Napalese Lounge Logo" 
@@ -61,7 +61,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        size="47,64"
        iconAnchor="22, 94">
        
-## Pink Triangle, The Third
+## Pink Triangle, Further
 
 Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 until its closure in 2000. Za's took over the space previously occupied by Who's, another short-lasting LGBT bar with a five-year tenure, and both owners of the respective bars lamented the transient and taxing nature of owning an LGBT bar. Both bars reported harrassment and violence as ongoing struggles throughout their short lifespans. Ironically, it was an increasingly diverse and tentatively accepting societal shift that lead to these early LGBT bars to struggle; as 'straight' bar crowds diversified, LGBT bars like Who's and Za's found their crowds shrinking. That unfortunate news aside, Za's logo is one of the most striking in UW Green Bay's collection; the angular design is striking, and in addition, Mariucci (or his graphic designer!) clevely interpreted the pink triangle imagery into the logo in the form of the A in "ZA'S." It's a design I wish would have stuck around! 
 
