@@ -57,7 +57,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        description="T-shirt logo of Club Cheeks in Green Bay" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Votis%2C%20Austin002.jpg">
        
-<param ve-map center="44.51445250891673, -88.02394858567011" zoom="16" 
+<param ve-map title="Club Cheeks" center="44.51445250891673, -88.02394858567011" zoom="16" 
        <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
        coords="44.51445250891673, -88.02394858567011"
@@ -73,7 +73,7 @@ Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 unti
        description="A t-shirt design for Za's Bar, est. 1989-2000" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Za_s%20t-shirt.jpg">
        
-<param ve-map center="44.51241440558864, -88.00110089180488" zoom="16" 
+<param ve-map title="Za's" center="44.51241440558864, -88.00110089180488" zoom="16" 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
        coords="44.51241440558864, -88.00110089180488"
@@ -98,10 +98,10 @@ Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly
        description="A color-printed business card for Rascals Bar & Grill featuring rainbow coloration." 
        url="https://github.com/Votiaw09/Imagas/blob/main/Votis,%20Austin009.jpg?raw=true">
        
-<param ve-map center="44.27312970451574, -88.396931932921" zoom="16" 
+<param ve-map title="Rascal's" center="44.27312962995819, -88.39693195088473" zoom="16" 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
-       coords="44.27312970451574, -88.396931932921"
+       coords="44.27312962995819, -88.39693195088473"
        size="47,64"
        iconAnchor="22, 94">
        
