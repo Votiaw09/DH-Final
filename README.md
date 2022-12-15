@@ -1,3 +1,7 @@
+## LGBT Icons, in a Literal Sense
+
+The purpose of this visual essay is to both analyze and especially to bring attention to the exceedingly creative ways that LGBT bars market themselves, with a focus on Green Bay and the Fox Cities. Some logos are subtle, others brazen, and much of the time, unless you knew what to look out for, it may not be apparent that the bar is an LGBT space to begin with.
+
 <param ve-image 
        label="My World Hand-Drawn Flier" 
        description="Framed poster for My World, drawn by then-owner, Bob Hackl." 
