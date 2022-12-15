@@ -124,9 +124,26 @@ Just as important as the logo for the bar is the paraphernalia, like matchbooks 
        description="A collection of matchbooks from various local LGBT bars." 
        url="https://github.com/Votiaw09/Imagas/blob/main/Rainbow%20Over%20Wisconsin,%20Silver%20Saddle%20Saloon%20matchbook.jpg?raw=true">       
        
-## The Manhole
+## Manhole
 
-The Manhole
+Operating from 1977 to 1982, Manhole's bar logo is the most impressive and brazen in perhaps the entire collection. Featuring a man, back to camera and jeans around his knees, there's little guesswork as to Manhole's identity and preferred clientelle. Postulated as maybe the first gay leather bar in Northeast Wisconsin[^2]. After its closure in 82, the bar was relocated and rebranded to Body Shop, which in turn became Who's, which lasted until 1989. The building was since torn down and become a Chase Bank parking lot.
+
+<param ve-image 
+       label="Manhole T-Shirt" 
+       description="A T-Shirt Logo for Manhole." 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Votis,%20Austin007.jpg?raw=true">
+       
+<param ve-image 
+       label="Manhole Matchbook" 
+       description="Matchbook for Manhole." 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Copy%20of%20Manhole%20Matchbook.jpg?raw=true">       
+       
+<param ve-map title="Manhole" center="44.51271080772991, -88.01721476233423" zoom="16" 
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
+       coords="44.51271080772991, -88.01721476233423"
+       size="47,64"
+       iconAnchor="22, 94">       
 
 # References
 
