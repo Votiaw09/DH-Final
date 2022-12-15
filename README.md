@@ -114,6 +114,16 @@ Just as important as the logo for the bar is the paraphernalia, like matchbooks 
        description="A collection of matchbooks from various local LGBT bars." 
        url="https://github.com/Votiaw09/Imagas/blob/main/Rainbow%20Over%20Wisconsin%20Smokers%20Trip%20Down%20Memory%20Lane.jpg?raw=true">
        
+<param ve-image 
+       label="Roxy's Matchbook" 
+       description="A collection of matchbooks from various local LGBT bars." 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Roxy%20Lounge%20Matchbook.jpg?raw=true">
+       
+<param ve-image 
+       label="Silver Saddles Saloon Matchbook" 
+       description="A collection of matchbooks from various local LGBT bars." 
+       url="https://github.com/Votiaw09/Imagas/blob/main/Rainbow%20Over%20Wisconsin,%20Silver%20Saddle%20Saloon%20matchbook.jpg?raw=true">       
+       
 ## The Manhole
 
 The Manhole
