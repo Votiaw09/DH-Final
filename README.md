@@ -73,10 +73,10 @@ Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 unti
        description="A t-shirt design for Za's Bar, est. 1989-2000" 
        url="https://raw.githubusercontent.com/Votiaw09/Imagas/main/Za_s%20t-shirt.jpg">
        
-<param ve-map center="44.512412492909235, -88.0011029034614" zoom="16" 
+<param ve-map center="44.51241440558864, -88.00110089180488" zoom="16" 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_pin_icon.svg"
-       coords="44.512412492909235, -88.0011029034614"
+       coords="44.51241440558864, -88.00110089180488"
        size="47,64"
        iconAnchor="22, 94">       
        
