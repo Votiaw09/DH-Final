@@ -66,9 +66,7 @@ A handful of bar iconography and logos collected by the UW Green Bay Archive & A
        
 ## Pink Triangle (Last), Za's
 
-Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 until its closure in 2000. Za's took over the space previously occupied by Who's, another short-lasting LGBT bar with a five-year tenure, and both owners of the respective bars lamented the transient and taxing nature of owning an LGBT bar. Both bars reported harrassment and violence as ongoing struggles throughout their short lifespans. Ironically, it was an increasingly diverse and tentatively accepting societal shift that lead to these early LGBT bars to struggle; as 'straight' bar crowds diversified, LGBT bars like Who's and Za's found their crowds shrinking. Za's logo is one of the most striking in UW Green Bay's collection; the angular design is striking, and in addition, Mariucci (or his graphic designer!) clevely interpreted the pink triangle imagery into the logo in the form of the A in "ZA'S."
-
-After two years of vacancy following Za's closure, new ownership moved in to open XS Nightclub, which is still in operation.
+Mark Mariucci, a Green Bay resident, opened and operated Za's bar from 1989 until its closure in 2000. Za's took over the space previously occupied by Who's, another short-lasting LGBT bar with a five-year tenure, and both owners of the respective bars lamented the transient and taxing nature of owning an LGBT bar. Both bars reported harrassment and violence as ongoing struggles throughout their short lifespans. Ironically, it was an increasingly diverse and tentatively accepting societal shift that lead to these early LGBT bars to struggle; as 'straight' bar crowds diversified, LGBT bars like Who's and Za's found their crowds shrinking. Za's logo is one of the most striking in UW Green Bay's collection; the angular design is striking, and in addition, Mariucci (or his graphic designer!) clevely interpreted the pink triangle imagery into the logo in the form of the A in "ZA'S." After two years of vacancy following Za's closure, new ownership moved in to open XS Nightclub, which is still in operation.
 
 <param ve-image 
        label="Za's t-shirt logo" 
@@ -109,12 +107,16 @@ Similar to Naps, Appleton's own Rascals Bar & Grill is a long-running and openly
        
 ## Matchbooks
 
-Just as important as the logo for the bar is the paraphernalia, like matchbooks and business cards, distributed to their clientelle. These items can be used as conversation starters, or signals to other people 'in the know.' With some striking exceptions, the imagery and designs of these matchbooks are fairly uniform, with some scrutiny required to 
+Just as important as the logo for the bar is the paraphernalia, like matchbooks and business cards, distributed to their clientelle. These items can be used as conversation starters, or signals to other people 'in the know.' With some striking exceptions, the imagery and designs of these matchbooks are fairly uniform, with some scrutiny required to discern the bars' target demographics.
 
 <param ve-image 
        label="A Smoker's Trip Down Memory Lane" 
        description="A collection of matchbooks from various local LGBT bars." 
        url="https://github.com/Votiaw09/Imagas/blob/main/Rainbow%20Over%20Wisconsin%20Smokers%20Trip%20Down%20Memory%20Lane.jpg?raw=true">
+       
+## The Manhole
+
+The Manhole
 
 # References
 
